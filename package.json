@@ -1,0 +1,22 @@
+{
+  "name": "countfiles",
+  "version": "1.0.0",
+  "description": "Counts js files in a particular directory recursively",
+  "main": "countfiles.js",
+  "scripts": {
+    "test": "node countfiles <destination_path>"
+  },
+  "keywords": [
+    "countfiles",
+    "countjsfiles",
+    "count",
+    "js",
+    "files",
+    "recursively"
+  ],
+  "author": "Harsh Kotak",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  }
+}
